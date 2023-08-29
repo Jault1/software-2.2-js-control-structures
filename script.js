@@ -24,8 +24,7 @@ if (q1test % 3 == 0 && q1test % 5 == 0) {
 // let year = 1999; // False
 // let year = 2000; // True
 // let year = 1900; // False
-// let year = 2024; // True
-
+// let year = 2024; // Truegit 
 // Create array
 const year = [1999, 2000, 1900, 2024];
 
